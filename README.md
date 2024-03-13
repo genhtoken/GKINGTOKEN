@@ -1,0 +1,2 @@
+# GKINGTOKEN
+GENSHINKING Token contract
